@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on http://tarax.io
-- 🌱 I’m currently learning Go and Nest Js
-- 👯 I’m looking to collaborate on React and angular.
-- 🤔 I’m looking for help with Go.
-- 💬 Ask me about the React
-- ⚡ Fun fact: React
+- 🌱 I’m currently mastering on React, Angular, Go and Nest Js
+- 👯 I’m looking to collaborate on large scale application
+- 🤔 I’m looking for help with open source projects
+- 💬 Ask me about the React and Angular
+- ⚡ Fun fact: I started coding at 9 years old.
 
