@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on http://tarax.io
+- 🔭 I’m currently working on software engineer company.
 - 🌱 I’m currently mastering on React, Angular, Go and Nest Js
 - 👯 I’m looking to collaborate on large scale application
 - 🤔 I’m looking for help with open source projects
