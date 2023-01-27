@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a ✨ Software engineer ✨ expert at Javascript frameworks and libraries such as Angular, React and node.js  ✨ Full stack Blockchain expert
+I am a ✨ Software engineer ✨ expert at Javascript frameworks and libraries such as Angular, React and Spring boot/node.js  ✨ Full stack Blockchain expert
 
 Here are some ideas to get you started:
 
