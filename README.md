@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/Ruby%20on%20Rails-Ruby%20on%20Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Laravel-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Solana-Solana-informational?style=flat&logo=solana&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Apollo-Apollo-informational?style=flat&logo=apollo&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Graphql-Graphql-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/NextJS-NextJS-informational?style=flat&logo=nextjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Gatsby-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=2bbc8a)
@@ -17,6 +18,9 @@
 ![](https://img.shields.io/badge/Codeigniter-Codeignither-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Flutter-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Mysql-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Html-Html-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tailwind-Tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MaterialUI-MaterialUI-informational?style=flat&logo=material&logoColor=white&color=2bbc8a)
 
 
 I am a ✨ Software engineer ✨ expert at Javascript frameworks and libraries such as Angular, React and Spring boot/node.js  ✨ Full stack Blockchain expert
