@@ -68,7 +68,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I started coding when i was 9 years old.
 
 </div>
-<img align="right" alt="Coding" width="400" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/coding.gif?raw=true">
+<div align="right">
+<img align="right" alt="Coding" width="400" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/coding.gif?raw=true"> 
+</div>
 </div>
 
 
