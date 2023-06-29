@@ -55,7 +55,6 @@
 ![](https://img.shields.io/badge/MaterialUI-MaterialUI-informational?style=flat&logo=material&logoColor=white&color=2bbc8a)
 
 </div>
-<div>
 <div align="left">
  <img align="right" alt="Coding" width="400" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/coding.gif?raw=true"> 
 I am a ✨ Software engineer ✨ expert at Javascript frameworks and libraries such as Angular, React and Spring boot/node.js  ✨ Full stack Blockchain expert
@@ -67,8 +66,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with open source projects
 - 💬 Ask me about the React, Angular and Blockchain projects like NFT Marketplace.
 - ⚡ Fun fact: I started coding when i was 9 years old.
+</div>
 
-</div>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
 
