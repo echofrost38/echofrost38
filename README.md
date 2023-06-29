@@ -55,6 +55,7 @@
 ![](https://img.shields.io/badge/MaterialUI-MaterialUI-informational?style=flat&logo=material&logoColor=white&color=2bbc8a)
 
 </div>
+<div>
 <div align="left">
 I am a ✨ Software engineer ✨ expert at Javascript frameworks and libraries such as Angular, React and Spring boot/node.js  ✨ Full stack Blockchain expert
 
@@ -67,5 +68,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I started coding when i was 9 years old.
 
 </div>
-
 <img align="right" alt="Coding" width="400" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/coding.gif?raw=true">
+</div>
+
+
