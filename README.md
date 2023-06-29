@@ -57,6 +57,7 @@
 </div>
 <div>
 <div align="left">
+ <img align="right" alt="Coding" width="400" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/coding.gif?raw=true"> 
 I am a ✨ Software engineer ✨ expert at Javascript frameworks and libraries such as Angular, React and Spring boot/node.js  ✨ Full stack Blockchain expert
 
 Here are some ideas to get you started:
@@ -67,9 +68,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about the React, Angular and Blockchain projects like NFT Marketplace.
 - ⚡ Fun fact: I started coding when i was 9 years old.
 
-</div>
-<div align="right">
-<img align="right" alt="Coding" width="400" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/coding.gif?raw=true"> 
 </div>
 </div>
 
