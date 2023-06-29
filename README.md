@@ -29,7 +29,8 @@
   <a href="https://github.com/devlancer-lucas"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 </div>
-
+<div align="center">
+ 
 ![](https://img.shields.io/badge/ReactJs-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Angular-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VueJS-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
@@ -53,6 +54,7 @@
 ![](https://img.shields.io/badge/Tailwind-Tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MaterialUI-MaterialUI-informational?style=flat&logo=material&logoColor=white&color=2bbc8a)
 
+</div>
 
 I am a ✨ Software engineer ✨ expert at Javascript frameworks and libraries such as Angular, React and Spring boot/node.js  ✨ Full stack Blockchain expert
 
