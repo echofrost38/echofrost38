@@ -65,6 +65,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on large scale application
 - 🤔 I’m looking for help with open source projects
 - 💬 Ask me about the React, Angular, Vue and Blockchain projects like NFT Marketplace.
+- 📫 How to reach me:
+  1) Email: monkey199294@gmail.com
+  2) Discord: js-ml-reputation#7434
+  3) Skype: live:.cid.7ac0291a8d9aa623
 - ⚡ Fun fact: I started coding when i was 9 years old.
 </div>
 
