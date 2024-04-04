@@ -53,6 +53,7 @@
 ![](https://img.shields.io/badge/Html-Html-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tailwind-Tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MaterialUI-MaterialUI-informational?style=flat&logo=material&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/expo-react-native?style=flat&logo=material&logoColor=white&color=2bbc8a)
 
 </div>
 <div align="left">
