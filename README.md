@@ -58,7 +58,7 @@
 </div>
 <div align="left">
  <img align="right" alt="Coding" width="400" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/coding.gif?raw=true"> 
-I am a ✨ Software engineer ✨ expert at Javascript frameworks and libraries such as Angular, React and Spring boot/node.js | Python  ✨ Full stack Blockchain expert ✨ Professional Mobile Developer with Expo React Native and Ionic
+I am a ✨ Software engineer ✨ Expert at Javascript frameworks and libraries such as Angular, React and Spring boot/node.js | Python  ✨ Full stack Blockchain expert ✨ Professional Mobile Developer with Expo React Native and Ionic
 
 Here are some ideas to get you started:
 
