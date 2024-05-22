@@ -244,7 +244,7 @@
 <b>☄️ Github Streaks</b>
   
   <br />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=boykalanders&theme=gotham&hide_border=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=echofrost38&theme=gotham&hide_border=true" />
 
 </div>
 <div align="left">
