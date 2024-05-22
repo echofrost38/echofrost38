@@ -57,22 +57,46 @@
 
 <table align="center">
   <tr>
-    <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-    <br>HTML5
-  </td>
-  <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-    <br>Bootstrap
-  </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="cpp" />
       <br>C++
     </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-        <br>jQuery
-      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=selenium" width="65" height="65" alt="Laravel" />
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow" />
+      <br>Tensorflow
+    </td>
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="Laravel" />
+      <br>Pytorch
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
@@ -81,24 +105,6 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-  <td align="center" width="96"> 
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-    <br>Git
-  </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-        <br>VsCode
-      </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
       <br>MongoDB
@@ -110,10 +116,6 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
-    </td>
-    <td align="center" width="96">
-      <img  width="65" height="65" src="https://techstack-generator.vercel.app/redux-icon.svg">
-      <br>Redux
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
@@ -128,16 +130,8 @@
       <br>Webpack
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>REST API
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" alt="FastAPI" />
-      <br>Prettier
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
     </td>
   </tr>
   <tr>
@@ -145,23 +139,79 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-        <br>WordPress
-      </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails" />
+      <br>Rails
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65" />
-      <br>Nginx
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
     </td>
   </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
+      <br>Go
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
+      <br>Ruby
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>WordPress
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=webflow" width="48" height="48" alt="Webflow" />
+      <br>Webflow
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="48" height="48" />
+      <br>Sass
+    </td>
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+ </tr>
 </table>
 
 
@@ -175,15 +225,15 @@
         </a>
     </p> -->
     <p>
-  <a href="https://github.com/boykalanders" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/echofrost38" target="_blank" rel="noopener noreferrer">
     <img
       height="180em"
-      src="https://satoshj-readme-state.vercel.app/api?username=boykalanders&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      src="https://satoshj-readme-state.vercel.app/api?username=echofrost38&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
       alt='github-stats'
     />
     <img
       height="180em"
-      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=boykalanders&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=echofrost38&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
       alt='github-stats-toplangs'
     />
   </a>
