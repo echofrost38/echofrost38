@@ -97,6 +97,8 @@
             <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express"/>
             <br>Express
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=nestjs" width="65" height="65" alt="Nestjs"/>
             <br>NestJS
@@ -104,6 +106,18 @@
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL"/>
             <br>GraphQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/>
+            <br>PHP
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel"/>
+            <br>Laravel
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress"/>
+            <br>WordPress
         </td>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65"/>
@@ -114,15 +128,19 @@
             <br>HTML5
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/>
-            <br>PHP
+            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB"/>
+            <br>Go
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails"/>
+            <br>Rails
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby"/>
+            <br>Ruby
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65"/>
-            <br>AWS
-        </td>
         <td align="center" width="96">
             <img
                     src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
@@ -130,12 +148,8 @@
             <br>Git
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel"/>
-            <br>Laravel
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails"/>
-            <br>Rails
+            <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="48" height="48"/>
+            <br>Sass
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap"/>
@@ -146,29 +160,9 @@
             <br>Tailwind
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="Materialui" />
+            <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="Materialui"/>
             <br>MaterialUI
         </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB"/>
-            <br>Go
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby"/>
-            <br>Ruby
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress"/>
-            <br>WordPress
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="48" height="48"/>
-            <br>Sass
-        </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <a href="#macropower-tech">
                 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65"/>
@@ -182,6 +176,7 @@
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65"/>
             <br>Django
+        </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow"/>
             <br>Tensorflow
@@ -190,16 +185,22 @@
             <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="Laravel"/>
             <br>Pytorch
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=ai" width="65" height="65" alt="Ai" />
+            <img src="https://skillicons.dev/icons?i=ai" width="65" height="65" alt="Ai"/>
             <br>AI
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=opencv" width="65" height="65" alt="Opencv" />
+            <img src="https://skillicons.dev/icons?i=opencv" width="65" height="65" alt="Opencv"/>
             <br>Opencv
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=azure" width="65" height="65" alt="Azure" />
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65"/>
+            <br>AWS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=azure" width="65" height="65" alt="Azure"/>
             <br>Azure
         </td>
         <td align="center" width="96">
@@ -223,20 +224,22 @@
             <br>MySQL
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=webstorm" width="65" height="65" alt="Webstorm" />
-            <br>Webstorm
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=solidity" width="65" height="65" alt="Solidity" />
+            <img src="https://skillicons.dev/icons?i=solidity" width="65" height="65" alt="Solidity"/>
             <br>Solidity
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=remix" width="65" height="65" alt="Remix" />
+            <img src="https://skillicons.dev/icons?i=remix" width="65" height="65" alt="Remix"/>
             <br>Remix
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=mint" width="65" height="65" alt="Mint" />
+            <img src="https://skillicons.dev/icons?i=mint" width="65" height="65" alt="Mint"/>
             <br>Mint
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=webstorm" width="65" height="65" alt="Webstorm"/>
+            <br>Webstorm
         </td>
     </tr>
 </table>
