@@ -93,12 +93,12 @@
             <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS"/>
             <br>NodeJS
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
             <br>Express
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Nestjs"/>
             <br>NestJS
@@ -131,6 +131,8 @@
             <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB"/>
             <br>Go
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails"/>
             <br>Rails
@@ -139,8 +141,6 @@
             <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby"/>
             <br>Ruby
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img
                     src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
@@ -173,6 +173,8 @@
             <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Laravel"/>
             <br>Selenium
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="48" height="48"/>
             <br>Django
@@ -185,8 +187,6 @@
             <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="Laravel"/>
             <br>Pytorch
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Ai"/>
             <br>AI
@@ -211,6 +211,8 @@
             <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48"/>
             <br>Docker
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
             <br>PostgreSQL
@@ -227,8 +229,6 @@
             <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity"/>
             <br>Solidity
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=remix" width="48" height="48" alt="Remix"/>
             <br>Remix
